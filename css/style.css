@@ -72,6 +72,10 @@ h2 {
     box-shadow: 5px 5px 10px lightgray;
 }
 
+.card img {
+    padding: 25px;
+}
+
 .card-footer {
     background-color: white;
     border-top: none;
